@@ -87,3 +87,4 @@ lint/tmp/
 *.yml
 proxy_tools/temp/
 app/mapping/
+app/release/
