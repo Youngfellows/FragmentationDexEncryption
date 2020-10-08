@@ -1,0 +1,2 @@
+include ':app', ':fragmentation_core', ':fragmentation_swipeback', ':fragmentation', ':eventbus_activity_scope', ':proxy_core'
+include ':proxy_tools'
