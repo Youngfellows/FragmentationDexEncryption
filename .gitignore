@@ -85,3 +85,5 @@ lint/tmp/
 # lint/reports/
 .idea/
 *.yml
+proxy_tools/temp/
+app/mapping/
